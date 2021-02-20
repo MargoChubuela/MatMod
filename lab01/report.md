@@ -59,28 +59,19 @@ header-includes:
 # Выполнение лабораторной работы
 
 Сначала я установила Git
- 
-![Установка Git](image/1.png){ #fig:001 width=70% }
-
 Создала аккаунт на GitHub
+ 
+![Аккаунт на GitHub](image/01.png){ #fig:001 width=70% }
 
-![Аккаунт на GitHub](image/2.png){ #fig:002 width=70% }
+Загрузила файлы на GitHub
 
-Создала пустой репозиторий на GitHub
+![Загрузка на GitHub](image/02.png){ #fig:002 width=70% }
 
-![Репозиторий на GitHub](image/3.jpg){ #fig:003 width=70% }
-
-Создала пустой каталог work и в нем создала файл report.md. Создала репозиторий и добавила файл в него файл report.md
-
-![Процесс через терминал](image/4.png){ #fig:004 width=70% }
-
-Загрузила на GitHub
-
-![Загрузка на GitHub](image/5.png){ #fig:005 width=70% }
+![Загрузка на GitHub](image/03.png){ #fig:003 width=70% }
 
 Репозиторий готов
 
-![Итог](image/6.png){ #fig:006 width=70% }
+![Репозиторий](image/04.png){ #fig:004 width=70% }
 
 # Вывод
 
